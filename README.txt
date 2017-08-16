@@ -1,3 +1,3 @@
 Git is good
 git init
-git
+this is
