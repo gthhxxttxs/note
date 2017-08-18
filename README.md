@@ -2,4 +2,5 @@
 读书笔记
 # 目录
 ## 工具
-- [markdown](/工具/Markdown/基本用法.md)
+- [markdown](/Tool/Markdown/basis.md)
+- [atom](/Tool/Atom/basis.md)
